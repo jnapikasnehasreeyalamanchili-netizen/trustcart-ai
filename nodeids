@@ -1,0 +1,7 @@
+[
+  "test_core.py::test_answers_explicit_false_attribute",
+  "test_core.py::test_different_price_variants_clarify",
+  "test_core.py::test_missing_attribute_is_unknown_not_false",
+  "test_core.py::test_refuses_out_of_catalogue_phone",
+  "test_core.py::test_tokens_zero_without_llm"
+]
